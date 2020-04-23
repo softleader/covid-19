@@ -1,1 +1,1 @@
-![](./announce.png)
+![](./announce.jpg)
